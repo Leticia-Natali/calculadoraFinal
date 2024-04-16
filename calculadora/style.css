@@ -1,0 +1,46 @@
+#fundo{
+    background-color: rgb(236, 236, 236);
+    padding: 5.0%;
+    border-radius: 3%;
+    margin-top: 50px;
+}
+body{
+    display: flex;
+    justify-content: center;
+    margin-block: 9%;
+    background-image: url(./fotoFundo.jpeg);
+    background-size: cover;
+}
+#titulo{
+    text-align: center;
+}
+#botaoCalcular{
+    background-color: #363636;
+    color: white;
+    border: 0;
+    border-radius: 3px;
+    width: 100%;
+    font-size: 100%;
+    height: 30px;
+}
+
+#operacao {
+    width: 100%;
+    font-size: 130%;
+}
+
+#titulo {
+    font-size: 200%;
+}
+
+#primeiroNum {
+    font-size: 100%;
+}
+
+#segundoNum {
+    font-size: 100%;
+}
+
+.um {
+    font-size: 130%;
+}
